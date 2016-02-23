@@ -17,4 +17,3 @@ image1 >>> colorControl --* addition
 
 overlay.outputImage
 
-
